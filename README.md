@@ -23,12 +23,6 @@ Python, FastAPI, scikit-learn, pandas, joblib
 
 Then open 127.0.0.1:8000/dashboard in your browser.
 
-## Speed test (200 payments)
-
-- Average: WRITE YOUR NUMBER ms
-- Median (p50): WRITE YOUR NUMBER ms
-- Slow end (p95): WRITE YOUR NUMBER ms
-
 ## Files
 
 - make_data.py: makes 10,000 practice payments (200 are fraud)
