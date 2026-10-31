@@ -48,3 +48,8 @@ The practice payments are made up. This is a learning project and not a real ban
 3. `main.py` runs the FastAPI service that scores each payment
 4. Risky payments appear on the review dashboard, where a human taps Approve or Reject
 5. Every decision is saved in `decisions.csv` for future retraining
+**Live demo:** [Open the dashboard](https://kavach-upi-fraud-guard.onrender.com/dashboard)
+
+**API docs:** [Try the API](https://kavach-upi-fraud-guard.onrender.com/docs)
+
+> Note: This runs on a free server, so the first load may take about a minute to wake up.
